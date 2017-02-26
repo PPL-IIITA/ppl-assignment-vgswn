@@ -1,2 +1,23 @@
 # ppl-assignment-vgswn
-Project Submitted By Vipul Kumar IIT2015038
+<br>Project Submitted By Vipul Kumar
+<br>Enroll No : IIT2015038<br>
+
+<br>For Q1 :
+<br>	open folder ppl_q1
+<br>	type these lines in terminal "bash -f run.sh"
+<br>	output will be generated in csv files
+<br>	c++ codes will be found inside src Folder
+<br>For Q2 :
+<br>	open folder ppl_q2
+<br>	type these lines in terminal "bash -f run.sh"
+<br>	output will be generated in csv files
+<br>	c++ codes will be found inside src Folder
+<br>For Class Diagrams :
+<br>	open Class_Diagram Folder and Find Respective Classs Diagrams
+<br>For Documentaion :
+<br>	Open Documentation Folder and then Select Question Number and open index.html inside html folder
+
+<br>Note : code will generate test cases that will be found as txt files
+
+
+
