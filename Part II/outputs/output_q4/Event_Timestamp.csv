@@ -1,0 +1,169 @@
+Event	 	 	 	 	 Couple ID 	 	 	 	  Timestamp
+Formation of couple	 	Boy_id1_Girl_id1	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id5_Girl_id6	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Event	 	 	 	Gift Id 	 	 	 Couple ID	 	 	  Timestamp
+Distribution of Gift	 	gift_id_462	 	 Boy_id1_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id1_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id1_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id1_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id1_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_338	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_126	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_264	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_105	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_461	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_293	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_212	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_55	 	 Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_338	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_126	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_264	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_105	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_461	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_293	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_212	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_55	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_81	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_187	 	 Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_338	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_126	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_264	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_105	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_461	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_293	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_212	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_55	 	 Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id5_Girl_id6	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id5_Girl_id6	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id5_Girl_id6	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id5_Girl_id6	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_338	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_126	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_264	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_105	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_461	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_293	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_212	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_55	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_81	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_187	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_384	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_428	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_520	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_296	 	 Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Event	 	 	 	 	 Couple ID 	 	 	 	  Timestamp
+Break_up	 	Boy_id5_Girl_id6	 	2017-04-09.22:30:03
+Break_up	 	Boy_id1_Girl_id1	 	2017-04-09.22:30:03
+Break_up	 	Boy_id4_Girl_id5	 	2017-04-09.22:30:03
+Break_up	 	Boy_id3_Girl_id4	 	2017-04-09.22:30:03
+Break_up	 	Boy_id2_Girl_id2	 	2017-04-09.22:30:03
+Break_up	 	Boy_id7_Girl_id3	 	2017-04-09.22:30:03
+Break_up	 	Boy_id47_Girl_id7	 	2017-04-09.22:30:03
+Event	 	 	 	 	 Couple ID 	 	 	 	  Timestamp
+Formation of couple	 	Boy_id2_Girl_id1	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id6_Girl_id5	 	2017-04-09.22:30:03
+Formation of couple	 	Boy_id4_Girl_id6	 	2017-04-09.22:30:03
+Event	 	 	 	Gift Id 	 	 	 Couple ID	 	 	  Timestamp
+Distribution of Gift	 	gift_id_462	 	 Boy_id2_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id2_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id2_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id2_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id2_Girl_id1	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_338	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_126	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_264	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_105	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_461	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_293	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_212	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_55	 	 Boy_id3_Girl_id2	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_338	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_126	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_264	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_105	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_461	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_293	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_212	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_55	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_81	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_187	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_384	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_428	 	 Boy_id15_Girl_id3	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_338	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_126	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_264	 	 Boy_id1_Girl_id4	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id6_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id6_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id6_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id6_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_174	 	 Boy_id6_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_535	 	 Boy_id6_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_79	 	 Boy_id6_Girl_id5	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_462	 	 Boy_id4_Girl_id6	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_69	 	 Boy_id4_Girl_id6	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_618	 	 Boy_id4_Girl_id6	 	2017-04-09.22:30:03
+Distribution of Gift	 	gift_id_8	 	 Boy_id4_Girl_id6	 	2017-04-09.22:30:03

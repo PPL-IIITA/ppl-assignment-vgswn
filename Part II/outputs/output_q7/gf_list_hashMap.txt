@@ -1,0 +1,16 @@
+Boy_id10->Girl_id5
+Boy_id23->No Girl friend
+Boy_id8->No Girl friend
+Boy_id27->No Girl friend
+Boy_id22->No Girl friend
+Boy_id1->No Girl friend
+Boy_id19->No Girl friend
+Boy_id3->No Girl friend
+Boy_id1->No Girl friend
+Boy_id23->No Girl friend
+Boy_id15->No Girl friend
+Boy_id16->No Girl friend
+Boy_id14->No Girl friend
+Boy_id7->Girl_id4
+Boy_id9->No Girl friend
+Boy_id26->No Girl friend

@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['geeks',['Geeks',['../class_geeks.html',1,'Geeks'],['../class_geeks.html#aa74bc287fb7987d0eeab122db9f40585',1,'Geeks::Geeks()'],['../class_geeks.html#a6f2f44f7beb410cb4f2394723f671a05',1,'Geeks::Geeks(string s, int a, int i, int b)']]],
+  ['generous',['Generous',['../class_generous.html',1,'Generous'],['../class_generous.html#ac82a953dcfa6eac1fa1678cc545d6ebc',1,'Generous::Generous()'],['../class_generous.html#ab0b66194448ff8590de826abfc160770',1,'Generous::Generous(string s, int a, int i, int b)']]],
+  ['gift',['Gift',['../class_gift.html',1,'Gift'],['../class_gift.html#aca2e0626d4322a975ea1c0c998d558ff',1,'Gift::Gift()']]],
+  ['gift_5fallocation',['Gift_Allocation',['../class_gift___allocation.html',1,'Gift_Allocation'],['../class_gift___allocation.html#a90052b00de2f8dea79ed652f51d61d30',1,'Gift_Allocation::Gift_Allocation()']]],
+  ['gift_5farr',['gift_arr',['../class_couples.html#ae6d39ee74b3832f11546c831e074d821',1,'Couples::gift_arr()'],['../classq3.html#ac035b4da06e9de4a968f6d176f45907b',1,'q3::gift_arr()'],['../classq4.html#aec6a9132288aacac38499567bf7010c6',1,'q4::gift_arr()'],['../classq5.html#aaf0944563e725ae4f2532c25d3036b79',1,'q5::gift_arr()'],['../classq6.html#a6bf5fcbae17ced2607f761654febbca5',1,'q6::gift_arr()'],['../classq7.html#a8370eca4c952b788a18e970431ecf014',1,'q7::gift_arr()'],['../classq8.html#a43951e1c68f6e733dab7bc7d6a4becbb',1,'q8::gift_arr()']]],
+  ['gift_5fdistribute',['gift_distribute',['../classq3.html#ab165ca97a76774e618e15a9e0e984964',1,'q3::gift_distribute()'],['../classq4.html#a519bef3d50f593cd412c80151bc7fba8',1,'q4::gift_distribute()'],['../classq5.html#a615456e533eeb5bff9aa53df8760cf3b',1,'q5::gift_distribute()'],['../classq6.html#a155c7bcffe06c46a2a14ad74e2ab266c',1,'q6::gift_distribute()'],['../classq7.html#a4668f14cddc7f8ccccdd78587521bace',1,'q7::gift_distribute()'],['../classq8.html#ac1cae87b53b695e6864318f8a988257f',1,'q8::gift_distribute()']]],
+  ['gift_5fgenerate',['gift_generate',['../classrandom__generate.html#ac1a87e408acec686353c169a91e2a5f2',1,'random_generate']]],
+  ['gift_5fid',['gift_id',['../class_gift.html#af84fa1865956d2e86dbba115102559a7',1,'Gift']]],
+  ['girl',['Girl',['../class_girl.html',1,'Girl'],['../class_girl.html#a42934942c9a398fae8463398e3027402',1,'Girl::Girl(void)'],['../class_girl.html#a9155af9298b879c2090e94e3db1c4b3f',1,'Girl::Girl(string s, int a, int i, int b)']]],
+  ['girl_5farr',['girl_arr',['../classq3.html#a50c1557e8343425fd55ed50e69437343',1,'q3::girl_arr()'],['../classq4.html#aab0777b7f5690bb9c66d4287c54ea948',1,'q4::girl_arr()'],['../classq5.html#a7f23e107f01723bf7fb80d338ce9fa55',1,'q5::girl_arr()'],['../classq6.html#a19e1b7bad07371e959e9cfd7feca62af',1,'q6::girl_arr()'],['../classq7.html#a7a0797eb6886b0f63cef660d9d49e942',1,'q7::girl_arr()'],['../classq8.html#aa44ab411ff58c8aa24f34c7bf4cabef2',1,'q8::girl_arr()']]],
+  ['girl_5fboy',['girl_boy',['../classq5.html#a9c1ac801609ad161c2a33c7e5cea45bf',1,'q5::girl_boy()'],['../classq6.html#aeca5d4e2644f377b63f47561e354f19d',1,'q6::girl_boy()'],['../classq7.html#abc1af27d658e8ba3c6b0567b52ed711f',1,'q7::girl_boy()'],['../classq8.html#a4e1918da4953e5cd1f037982dacc9a4e',1,'q8::girl_boy()']]],
+  ['girl_5fid',['girl_id',['../class_girl.html#a94e1817f90da8bc51ce59df0662e05a7',1,'Girl']]],
+  ['gn',['gn',['../classrandom__generate.html#a51af0a6897932e60fd2fe8c318889e25',1,'random_generate']]],
+  ['gob',['gob',['../class_couples.html#acc2ce9df943ae80302c0fc379dce508d',1,'Couples']]]
+];
