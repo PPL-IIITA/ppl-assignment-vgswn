@@ -50,6 +50,7 @@ Notes ::
 	** New Documenatation will be generated as Documentation_new
 
 
+* Sample Inputs And Outputs are given
 
 All codes are tested Successfully in Ubuntu 14.04 Environment with  compiler g++ 4.8.4 and Doxygen 1.8.6
 
