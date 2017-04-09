@@ -1,0 +1,54 @@
+Event	 	 	 	 	 Couple ID 	 	 	 	  Timestamp
+Formation of couple	 	Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Formation of couple	 	Boy_id25_Girl_id3	 	2017-04-09.22:31:17
+Formation of couple	 	Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Formation of couple	 	Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Formation of couple	 	Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Event	 	 	 	Gift Id 	 	 	 Couple ID	 	 	  Timestamp
+Distribution of Gift	 	gift_id_142	 	 Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_207	 	 Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_577	 	 Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_72	 	 Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_268	 	 Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_438	 	 Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_9	 	 Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_421	 	 Boy_id10_Girl_id5	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_142	 	 Boy_id25_Girl_id3	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_207	 	 Boy_id25_Girl_id3	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_577	 	 Boy_id25_Girl_id3	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_72	 	 Boy_id25_Girl_id3	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_142	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_207	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_577	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_72	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_268	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_438	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_9	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_421	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_297	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_125	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_316	 	 Boy_id7_Girl_id4	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_142	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_207	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_577	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_72	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_268	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_438	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_9	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_421	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_297	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_125	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_316	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_456	 	 Boy_id13_Girl_id1	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_142	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_207	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_577	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_72	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_268	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_438	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_9	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_421	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_297	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_125	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_316	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17
+Distribution of Gift	 	gift_id_456	 	 Boy_id21_Girl_id2	 	2017-04-09.22:31:17

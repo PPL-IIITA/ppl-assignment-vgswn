@@ -1,0 +1,34 @@
+5
+Choosy Girl_id1 88 56 578 
+Choosy Girl_id2 104 63 612 
+Choosy Girl_id3 43 94 200 
+Normal Girl_id4 65 45 558 
+Choosy Girl_id5 101 81 137 
+27
+Geeks Boy_id1 84 102 939 
+Miser Boy_id2 80 25 106 
+Generous Boy_id3 16 37 788 
+Geeks Boy_id4 15 68 998 
+Generous Boy_id5 80 41 892 
+Generous Boy_id6 93 86 214 
+Generous Boy_id7 96 85 561 
+Generous Boy_id8 22 93 140 
+Generous Boy_id9 37 89 477 
+Generous Boy_id10 104 45 356 
+Geeks Boy_id11 72 107 905 
+Geeks Boy_id12 65 13 1031 
+Miser Boy_id13 96 85 1084 
+Generous Boy_id14 61 60 540 
+Miser Boy_id15 35 11 648 
+Miser Boy_id16 47 98 875 
+Geeks Boy_id17 77 14 862 
+Miser Boy_id18 49 81 714 
+Geeks Boy_id19 78 81 174 
+Geeks Boy_id20 36 15 252 
+Geeks Boy_id21 90 99 1082 
+Miser Boy_id22 49 32 821 
+Miser Boy_id23 34 31 554 
+Generous Boy_id24 19 92 177 
+Geeks Boy_id25 96 102 1042 
+Generous Boy_id26 73 18 832 
+Miser Boy_id27 89 68 558 
